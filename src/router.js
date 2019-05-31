@@ -1,7 +1,7 @@
 /*
  * @Author: shenxsh
  * @Date: 2019-05-31 10:21:03
- * @LastEditTime: 2019-05-31 14:44:05
+ * @LastEditTime: 2019-05-31 14:50:43
  * @LastEditors: Do not edit
  * @Description: 描述
  */
@@ -12,7 +12,7 @@ import Home from "./views/Home.vue";
 Vue.use(Router);
 
 export default new Router({
-  base: "/dist/",
+  base: "/vueSwiper/dist/",
   routes: [
     {
       path: "/",
